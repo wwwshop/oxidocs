@@ -15,7 +15,7 @@
 ### Price-info widget
 <script id="oxipay-price-info" src="https://widgets.oxipay.co.nz/content/scripts/price-info.js?productPrice=0"></script>
 ```
-<script id="oxipay-price-info" src="https://widgets.oxipay.co.nz/content/scripts/price-info.js?productPrice=PlaceYourProductPrice"></script>
+<script id="oxipay-price-info" src="https://widgets.oxipay.co.nz/content/scripts/price-info.js?productPrice=PLACE_YOUR_PRODUCT_PRICE"></script>
 ```
 
 <br/><br/>
